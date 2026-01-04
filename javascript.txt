@@ -327,3 +327,5 @@ Event Binding
 
 Event binding allows scripts to run in response to specific actions, like page loading (onload) or button clicks (onclick).
 Other events, such as on-mouse-over, can also trigger functions, enhancing user interaction on web pages.
+
+https://docs.google.com/spreadsheets/d/11YryNZKgAq0nzlznt0zvZpBvzH88hCPoNplXpSac6NM/edit?gid=0#gid=0
